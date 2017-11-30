@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<template>
+		<theme name="default">
+			<description>
+				<![CDATA[
+					This is the default template for our template system
+				]]>
+			</description>
+			<position>output</position>
+			<position>post_2</position>
+			<position>post_3</position>
+		</theme>
+		<theme name="admin">
+			<description>
+				<![CDATA[
+					This is the default template for our template system
+				]]>
+			</description>
+			<position>output</position>
+			<position>post_2</position>
+			<position>post_3</position>
+			<position>post_6</position>
+		</theme>
+	</template>
