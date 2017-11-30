@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+$IP_ADDR = '192.168.1.2';
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://ci3.hmvc';
+$config['base_url'] = 'http://'.$IP_ADDR.'/hms/';
 
 /*
 |--------------------------------------------------------------------------
