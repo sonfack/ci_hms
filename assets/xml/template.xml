@@ -6,9 +6,20 @@
 					This is the default template for our template system
 				]]>
 			</description>
+			<position>horizontal_menu</position>
+			<position>vertical_menu</position>
+			<position>main_contain</position>
+		</theme>
+		<theme name="user">
+			<description>
+				<![CDATA[
+					This is the default template for our template system
+				]]>
+			</description>
 			<position>output</position>
-			<position>post_2</position>
-			<position>post_3</position>
+			<position>horizontal_menu</position>
+			<position>vertical_menu</position>
+			<position>main_contain</position>
 		</theme>
 		<theme name="admin">
 			<description>
