@@ -122,7 +122,7 @@ class MY_Model extends CI_Model{
      */
     
     public function get_record() {
-		
+
 		// aucun parametre passe a la fontion 
         if(func_num_args() == 0){
             $query = $this->db->get_where($this->_table, array($this->_etat => 1));

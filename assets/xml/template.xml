@@ -18,18 +18,14 @@
 			</description>
 			<position>output</position>
 			<position>horizontal_menu</position>
-			<position>vertical_menu</position>
-			<position>main_contain</position>
 		</theme>
 		<theme name="admin">
 			<description>
 				<![CDATA[
-					This is the default template for our template system
+					This admin template is to manage our adminsitration zone
 				]]>
 			</description>
 			<position>output</position>
-			<position>post_2</position>
-			<position>post_3</position>
-			<position>post_6</position>
+			<position>horizontal_menu</position>
 		</theme>
 	</template>
